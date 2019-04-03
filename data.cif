@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# Cu-H-N-O-S       # Cu[SO4][NH3]4[H2O]                            # 1003300 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2018/19                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2018 #
+#                   All rights reserved. Version 2018.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   Philipps-Universität Marburg, Fachbereich Chemie, Site License           #
+#                                                                            #
+##############################################################################
+
+data_1003300
+_audit_creation_date                     2019-04-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003300
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [S O~4~] [N H~3~]~4~ [H~2~ O]'
+_chemical_formula_sum                    'Cu H14 N4 O5 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu[SO~4~][NH~3~]~4~[H~2~O],oP44,62
+_chemical_formula_weight                 245.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Crystal Structures of Copper Tetrammine Complexes. A. Cu(NH~3~)~4~SO~4~.H~2~O and Cu(NH~3~)~4~SeO~4~
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1969
+_journal_volume                          25
+_journal_page_first                      19
+_journal_page_last                       30
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Morosin B.'
+;
+Sandia National Laboratories (SNL)
+Albuquerque
+U.S.A. New Mexico
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6509
+_cell_length_b                           7.069
+_cell_length_c                           11.986
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             902.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   62
+_space_group_name_H-M_alt                'P n m a'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '1/2-x, -y, 1/2+z'
+ 3 '1/2-x, 1/2+y, 1/2+z'
+ 4 '-x, -y, -z'
+ 5 '-x, 1/2+y, -z'
+ 6 '1/2+x, 1/2-y, 1/2-z'
+ 7 '1/2+x, y, 1/2-z'
+ 8 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ Cu
+ S
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 8 d 0.07132 0.54365 0.35355 1
+ O2 O 8 d 0.19335 0.08073 0.06807 1
+ N2 N 8 d 0.43758 0.5411 0.34695 1
+ Cu Cu 4 c 0.00748 0.25 0.74128 1
+ O1 O 4 c 0.20347 0.25 0.6531 1
+ O3 O 4 c 0.24729 0.25 0.2353 1
+ S S 4 c 0.25267 0.25 0.11405 1
+ O4 O 4 c 0.38534 0.25 0.07966 1
+ H7N2 H 8 d 0.01 0.02 0.125 1
+ H4N1 H 8 d 0.01 0.04 0.37 1
+ H3N1 H 8 d 0.11 0.59 0.41 1
+ H2N1 H 8 d 0.12 0.07 0.305 1
+ H1O1 H 8 d 0.23 0.15 0.62 1
+ H6N2 H 8 d 0.39 0.59 0.41 1
+ H5N2 H 8 d 0.4 0.06 0.31 1
+
+
+_exptl_crystal_colour                    'blue dark'
+_exptl_crystal_density_meas              1.81
+_exptl_crystal_density_diffrn            1.81
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            88
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            2.72
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1012
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1003300
+
